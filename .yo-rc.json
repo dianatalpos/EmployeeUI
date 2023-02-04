@@ -1,0 +1,52 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "authenticationType": "jwt",
+    "baseName": "managementUI",
+    "blueprints": [],
+    "buildTool": "gradle",
+    "cacheProvider": "no",
+    "clientFramework": "react",
+    "clientPackageManager": "npm",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1675524017255,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "devServerPort": 9060,
+    "dtoSuffix": "DTO",
+    "enableGradleEnterprise": false,
+    "enableHibernateCache": false,
+    "enableSwaggerCodegen": false,
+    "enableTranslation": false,
+    "entitySuffix": "",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "7.9.3",
+    "jwtSecretKey": "MTNiOGQwZjk4NmRjN2VjYTEwYWQ4MDU3ZDdiM2EyOTFhNDkxMGMzYTIyM2M4ZWRlYmEzNGJkNWYyMmM4NzI0NjdkYjgyZDUzNzA4Y2ExNmRlYjJmMjY2Y2Q0NjM3NWQyZTNmNDIyOTNkYmJhNDgwMDZjNWU3NWI5YjViN2Q5OGU=",
+    "languages": ["en", "fr"],
+    "messageBroker": false,
+    "microfrontend": true,
+    "microfrontends": [
+      {
+        "baseName": "managementUI"
+      }
+    ],
+    "nativeLanguage": "en",
+    "otherModules": [],
+    "packageName": "com.soa.employee",
+    "pages": [],
+    "prodDatabaseType": "postgresql",
+    "reactive": true,
+    "searchEngine": false,
+    "serverPort": "8080",
+    "serverSideOptions": [],
+    "serviceDiscoveryType": "eureka",
+    "skipCheckLengthOfIdentifier": false,
+    "skipClient": false,
+    "skipFakeData": false,
+    "skipUserManagement": false,
+    "testFrameworks": [],
+    "websocket": false,
+    "withAdminUi": true
+  }
+}
