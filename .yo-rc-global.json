@@ -2,7 +2,8 @@
   "generator-jhipster:7.9.3": {
     "promptValues": {
       "packageName": "com.soa.employee",
-      "nativeLanguage": "en"
+      "nativeLanguage": "en",
+      "microservicePath": "../employee"
     }
   }
 }

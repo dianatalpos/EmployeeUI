@@ -8,7 +8,7 @@ const Footer = () => (
   <div className="footer page-content">
     <Row>
       <Col md="12">
-        <p>This is your footer</p>
+        <p>A&A Management UI Copyright 2023</p>
       </Col>
     </Row>
   </div>

@@ -19,6 +19,7 @@
     "enableHibernateCache": false,
     "enableSwaggerCodegen": false,
     "enableTranslation": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
     "entitySuffix": "",
     "jhiPrefix": "jhi",
     "jhipsterVersion": "7.9.3",

@@ -12,8 +12,5 @@ export const EntitiesMenu = () => (
     <Suspense fallback={<div>loading...</div>}>
       <EntitiesMenuItems />
     </Suspense>
-    <Suspense fallback={<div>loading...</div>}>
-      <ManagementUIEntitiesMenuItems />
-    </Suspense>
   </NavDropdown>
 );
